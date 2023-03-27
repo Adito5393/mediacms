@@ -5,7 +5,7 @@ on:
     branches:
       - add-dockerhub-release-with-all-tags
     tags:
-      - "v*.*.*"
+      - v*.*.*
 
 jobs:
   build:
